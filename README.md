@@ -15,6 +15,7 @@ Pain points we can address:
  - Getting the code, and making changes to, FOSS projects.
  - FOSS revenue.
  - Community engagement.
+ - Curation / discovery.
 
 ### Installing / Auto-updating / Uninstalling
 
@@ -65,6 +66,13 @@ Adding purchasing or donations to the toolset would be handy.
 This is what Kickstarter and Patreon do well.
 Any software should have, at least, links to where you can get support.
 But it's also possible to do project description pages, news feeds, and discussions.
+
+### Curation / discovery
+
+It can be easy to miss new software.
+(Conversely, it can be tough to get your software noticed.)
+
+User curation and aggregation could help with this.
 
 ## Screenshots of related software
 
