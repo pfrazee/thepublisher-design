@@ -98,3 +98,11 @@ User curation and aggregation could help with this.
 ![screenshots/osxappstore4.png](screenshots/osxappstore4.png)
 ![screenshots/osxappstore5.png](screenshots/osxappstore5.png)
 ![screenshots/osxappstore6.png](screenshots/osxappstore6.png)
+
+### Steam
+
+![screenshots/steam1.jpg](screenshots/steam1.jpg)
+![screenshots/steam2.jpg](screenshots/steam2.jpg)
+![screenshots/steam3.jpg](screenshots/steam3.jpg)
+![screenshots/steam4.jpg](screenshots/steam4.jpg)
+![screenshots/steam5.jpg](screenshots/steam5.jpg)
