@@ -14,7 +14,7 @@ Pain points we can address:
  - Creating plugin/module ecosystems.
  - Getting the code, and making changes to, FOSS projects.
  - FOSS revenue.
- - Finding support and community.
+ - Community engagement.
 
 ### Installing / Auto-updating / Uninstalling
 
@@ -60,6 +60,11 @@ It'd be even cooler if it was easy to run your custom version in place of the de
 
 Adding purchasing or donations to the toolset would be handy.
 
-### Finding support and community
+### Community engagement
 
+This is what Kickstarter and Patreon do well.
 Any software should have, at least, links to where you can get support.
+But it's also possible to do project description pages, news feeds, and discussions.
+
+## Screenshots of other interesting related software
+
