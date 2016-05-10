@@ -66,11 +66,18 @@ This is what Kickstarter and Patreon do well.
 Any software should have, at least, links to where you can get support.
 But it's also possible to do project description pages, news feeds, and discussions.
 
-## Screenshots of other interesting related software
+## Screenshots of related software
 
-### Patreon - community engagement and revenue
+### Patreon
 
 ![screenshots/patreon1.png](screenshots/patreon1.png)
 ![screenshots/patreon2.png](screenshots/patreon2.png)
 ![screenshots/patreon3.png](screenshots/patreon3.png)
 
+### Chrome store
+
+![screenshots/chromestore1.png](screenshots/chromestore1.png)
+![screenshots/chromestore2.png](screenshots/chromestore2.png)
+![screenshots/chromestore3.png](screenshots/chromestore3.png)
+![screenshots/chromestore4.png](screenshots/chromestore4.png)
+![screenshots/chromestore5.png](screenshots/chromestore5.png)
