@@ -15,3 +15,7 @@ ThePublisher is intended for desktop/notebooks, but it could also be applied to 
 ### [OSX App store](osxappstore.md)
 
 ### [Steam](steam.md)
+
+## Mockups
+
+### [initial](mockups/initial.md)
