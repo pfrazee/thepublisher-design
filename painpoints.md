@@ -10,6 +10,7 @@ Pain points we can address:
  - FOSS revenue.
  - Community engagement.
  - Curation / discovery.
+ - Server management.
 
 ## Installing / Auto-updating / Uninstalling
 
@@ -67,3 +68,21 @@ It can be easy to miss new software.
 (Conversely, it can be tough to get your software noticed.)
 
 User curation and aggregation could help with this.
+In some ways, curation relates to education; people's software toolsets generally relate to productivity improvements, and involve a learning curve.
+(Think CLI tools.)
+Part of curation may be educating people about your workflow.
+
+## Server management
+
+ThePublisher is meant for desktop platforms.
+It's meant to make installation and management very easy for users, of any technical level.
+(Even hackers dont want to have to manage every package by hand.)
+
+The same is true for web-server software sometimes, too.
+All of the docker, kubernetes, ubuntu juju charms, and ibm blue mix solutions try to solve server management from the perspective of ops.
+But there's another segment that just wants to have web services run without having to maintain them.
+(This is the pitch for sandstorm.io, minus the wrapper UI that sandstorm has.)
+That means, not something that's super flexible / configurable; it's a boxed solution, take it or leave it (or publish your own boxed solution).
+
+If the toolset for ThePlatform works well on desktop, it should transpose to servers fairly easily.
+Bonus points if you can spin up a VPS from your desktop with one click, and import/export the dataset for the server's application to file.
