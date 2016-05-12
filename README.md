@@ -18,4 +18,6 @@ ThePublisher is intended for desktop/notebooks, but it could also be applied to 
 
 ## Mockups
 
-### [initial](mockups/initial.md)
+### [Initial](mockups/initial.md)
+
+### [Iteration 2](mockups/iter2.md)
