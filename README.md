@@ -8,7 +8,7 @@ ThePublisher is intended for desktop/notebooks, but it could also be applied to 
 
 ### [Pain points](painpoints.md)
 
-### Market
+### [Market](#todo)
 
 *need more here*
 
